@@ -1,0 +1,18 @@
+.title {
+ text-transform: uppercase;
+ color: aqua;
+ font-family: 'Calistoga', cursive;
+}
+
+.subtitle {
+    font-weight: bolder;
+}
+
+.description {
+    font-style: oblique;
+}
+
+p#again {
+    color: tomato;
+}
+
